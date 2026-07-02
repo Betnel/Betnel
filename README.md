@@ -65,16 +65,6 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 | Cloud | AWS |
 | Development | VS Code • Jupyter Notebook |
 | Version Control | Git • GitHub |
-
----
-
-# 🚀 Technology Stack
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" />
-
-
-</p>
 ---
 
 # 📂 Featured Projects
