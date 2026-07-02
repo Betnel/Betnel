@@ -73,6 +73,7 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" />
 
+
 </p>
 ---
 
