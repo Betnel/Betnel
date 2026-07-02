@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Responsible+AI+Enthusiast;Python+Developer;Lifelong+Learner;Building+Data+for+Impact)](https://git.io/typing-svg)
+
 # Hi there 👋 I'm Nelvin Bett
 
 ### Data Analyst | Responsible AI | Sustainable Development
@@ -44,3 +46,15 @@ Email:
 ---
 
 > *"I may not become the loudest voice in the room, but I will become one of the most trusted voices where data, AI, and sustainable development meet."*
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Betnel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Betnel&layout=compact&theme=tokyonight)
+
+## 💻 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" />
+</p>
