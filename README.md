@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Nelvin Bett
 
-<!--
-**Betnel/Betnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Responsible AI | Sustainable Development
 
-Here are some ideas to get you started:
+I am passionate about using data, research, and responsible AI to support evidence-based decision-making and sustainable development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span:
+
+- 📊 Data Analytics
+- 🤖 Responsible AI
+- 🌍 International Development
+- 📈 Data Science
+- 🔍 Research & Insights
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Science
+- Machine Learning
+- AI Governance
+
+
+---
+
+## 🛠 Tech Stack
+
+Python • SQL • PostgreSQL • Power BI • Excel • Git • GitHub • VS Code
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+(https://www.linkedin.com/in/nelvinbett/)
+
+Portfolio:
+(https://betnel.github.io/bettnel.github.io/)
+
+Email:
+(bettnelvin@gmail.com,nelvin@gmail.com)
+
+---
+
+> *"I may not become the loudest voice in the room, but I will become one of the most trusted voices where data, AI, and sustainable development meet."*
