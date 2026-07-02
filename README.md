@@ -6,13 +6,13 @@
 
 *Transforming data into evidence, insights into decisions, and technology into impact.*
 
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/nelvinbett/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://betnel.github.io/bettnel.github.io//" target="_blank">
+<a href="https://betnel.github.io/bettnel.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
@@ -24,93 +24,74 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Betnel&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Betnel&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
 I am passionate about using **data, research, and emerging technologies** to support evidence-based decision-making and sustainable development.
 
-My work combines **Data Analytics, Responsible AI, Business Intelligence, Research, and Machine Learning** to help organizations understand complex challenges and make informed decisions.
+My work combines **Data Analytics, Business Intelligence, Responsible AI, and Machine Learning** to transform complex datasets into meaningful insights that support smarter decisions and measurable impact.
 
-I am particularly interested in applying data and AI across:
+I enjoy collaborating on projects that bridge technology, research, and development to solve real-world challenges.
 
-- 🌍 International Development
-- 🤖 Responsible AI & AI Governance
+## 🌍 Areas of Interest
+
 - 📊 Data Analytics & Business Intelligence
-- 🌾 Agriculture & Food Security
-- 🏥 Healthcare & Public Health
+- 🤖 Responsible AI & AI Governance
+- 🌍 International Development
+- 📈 Research & Data-Driven Decision Making
 - 🌱 Climate & Sustainability
+- 🌾 Agriculture & Food Security
+- 🏥 Healthcare Analytics
 - 🏛 Public Policy & Governance
-- 📈 Research & Monitoring & Evaluation
 
 ---
 
-# What I Work With
+# 💼 What I Work With
 
 | Category | Technologies |
-|-----------|-------------|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy |
+|:---------|:-------------|
+| Programming | Python • SQL |
+| Data Analysis | Pandas • NumPy |
 | Machine Learning | Scikit-learn |
-| Business Intelligence | Power BI, Excel |
-| Databases | PostgreSQL, MySQL |
+| BI & Visualization | Power BI • Microsoft Excel |
+| Databases | PostgreSQL • MySQL |
 | Cloud | AWS |
-| Version Control | Git, GitHub |
-| IDEs | VS Code, Jupyter Notebook |
+| Development | VS Code • Jupyter Notebook |
+| Version Control | Git • GitHub |
 
 ---
 
-# Technology Stack
+# 🚀 Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,aws"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" />
 
 </p>
 
 ---
 
-# Featured Projects
+# 📂 Featured Projects
 
-### 🌍 HARMONY HRMIS
-AI-powered Human Resource Management Information System designed for SMEs, NGOs, and governments across Africa.
-
----
-
-### 💳 Credit Risk Prediction
-Machine Learning project predicting customer creditworthiness using Python and Scikit-learn.
-
----
-
-### 🌧 Rainfall Data Analysis
-Python-based climate analytics project exploring rainfall trends through visualization and statistical analysis.
+| Project | Description |
+|:--------|:------------|
+| 🌍 **HARMONY HRMIS** | AI-powered Human Resource Management Information System for SMEs, NGOs, and governments across Africa. |
+| 💳 **Credit Risk Prediction** | Machine learning model for assessing borrower creditworthiness using Python and Scikit-learn. |
+| 💧 **Maji Ndogo Analytics** | Data analytics project focused on improving water access and infrastructure through evidence-based insights. |
+| 🌧 **Rainfall Data Analysis** | Climate data analysis using Python, statistical methods, and visualizations. |
+| 🏘 **Real Estate Analytics** | SQL, Python, and Power BI project exploring housing market trends. |
+| 📊 **Interactive Power BI Dashboards** | Executive dashboards supporting reporting, KPI tracking, and business insights. |
 
 ---
 
-### 💧 Maji Ndogo Data Analytics
-Data analytics project focused on improving water access and infrastructure through evidence-based insights.
-
----
-
-### 🏘 Real Estate Analytics
-SQL + Python + Power BI project analyzing housing market trends and property performance.
-
----
-
-### 📊 Interactive Power BI Dashboards
-Business dashboards supporting reporting, forecasting, KPI monitoring, and executive decision-making.
-
----
-
-# Certifications
+# 📜 Certifications
 
 - Microsoft Power BI
 - AWS Cloud Foundations
@@ -121,7 +102,7 @@ Business dashboards supporting reporting, forecasting, KPI monitoring, and execu
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
 - Responsible AI
 - AI Governance
@@ -129,71 +110,69 @@ Business dashboards supporting reporting, forecasting, KPI monitoring, and execu
 - Advanced SQL
 - Machine Learning
 - Data Engineering
-- Cloud Analytics
+- AWS Cloud Services
 
 ---
 
-# GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Betnel&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Betnel&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betnel&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betnel&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Betnel&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Betnel&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Betnel&theme=github-compact"/>
-
-</p>
-
----
-
-# Professional Interests
+# 📌 Professional Interests
 
 - Data Analytics
 - Responsible AI
+- Artificial Intelligence
 - Research & Insights
+- Business Intelligence
 - International Development
+- Sustainable Development
 - Climate Analytics
 - Public Policy
+- Evidence-Based Decision Making
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on projects involving:
+
+- Data Analytics
 - Artificial Intelligence
+- Research
+- Dashboards & Business Intelligence
+- Sustainable Development
+- International Development
 - Machine Learning
-- Business Intelligence
-- Evidence-based Decision Making
+
+Feel free to connect with me on LinkedIn or explore my projects.
 
 ---
 
-# Let's Connect
+# 💡 Personal Philosophy
 
-I enjoy collaborating on projects that use data and AI to solve real-world challenges.
-
-Whether it's research, analytics, visualization, machine learning, or sustainable development, I'm always open to meaningful collaborations and learning opportunities.
+> *"I may not become the loudest voice in the room, but I will become one of the most trusted voices where data, AI, and sustainable development meet."*
 
 ---
-
-> **"I may not become the loudest voice in the room, but I will become one of the most trusted voices where data, AI, and sustainable development meet."**
 
 <div align="center">
 
-### Thanks for visiting!
+### ⭐ Thank you for visiting my profile!
 
-⭐ If you find my work interesting, consider following my journey.
+If you find my work interesting, consider following my journey and exploring my repositories.
 
 </div>
