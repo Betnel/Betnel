@@ -95,22 +95,12 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 
 - Responsible AI
 - AI Governance
-- Microsoft Fabric
 - Advanced SQL
 - Machine Learning
 - Data Engineering
 
 ---
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Betnel&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betnel&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
+Activity
 <p align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Betnel&theme=github-dark-blue&hide_border=true"/>
