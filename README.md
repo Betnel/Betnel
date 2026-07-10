@@ -62,7 +62,6 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 | Machine Learning | Scikit-learn |
 | BI & Visualization | Power BI • Microsoft Excel |
 | Databases | PostgreSQL • MySQL |
-| Cloud | AWS |
 | Development | VS Code • Jupyter Notebook |
 | Version Control | Git • GitHub |
 ---
