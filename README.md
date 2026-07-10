@@ -83,10 +83,13 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 # 📜 Certifications
 
 - Microsoft Power BI
-- AWS Cloud Foundations
-- AWS Machine Learning Foundations
+- Advanced Excel
+- Machine Learning
+- Monitoring & Evaluation
 - ALX Data Analytics
-- SQL
+- Management & Leadership
+- Intergrating business & Trade statistics
+- Understanding citizen data for better decision-making
 - Python for Data Analysis
 
 ---
@@ -97,7 +100,7 @@ I enjoy collaborating on projects that bridge technology, research, and developm
 - AI Governance
 - Advanced SQL
 - Machine Learning
-- Data Engineering
+
 
 ---
 Activity
